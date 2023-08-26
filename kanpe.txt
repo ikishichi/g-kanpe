@@ -141,3 +141,6 @@ AI関連の論文数（2018年-2020年）
 4位：ドイツ
 5位：日本
 https://www.nistep.go.jp/sti_indicator/2022/RM318_42.html
+
+WaveNet…DeepMindが開発した音声合成のアルゴリズム
+
