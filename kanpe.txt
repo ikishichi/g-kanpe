@@ -35,8 +35,6 @@ GDPR（General Data  Protection Regulation）…2018年にEUが制定した、�
 
 プラトー…鞍点から抜け出せなくなった状態。
  
-ベイズの定理…https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%BA%E3%81%AE%E5%AE%9A%E7%90%86
- 
 ベイズ推定…観測事象から推定したい事柄を確率的に推論すること
  
 Define-by-Run…グラフの構築と順伝搬処理が同時行える。データ構造によってモデルを変えるのが簡単、デバッグが容易。
